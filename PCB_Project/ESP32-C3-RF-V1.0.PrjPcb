@@ -44,6 +44,7 @@ CrossRefPorts=3
 CrossRefCrossSheets=1
 CrossRefSheetEntries=0
 CrossRefFollowFromMainSettings=1
+CurrentVariant=Variant of ESP32-C3-RF-V1.0
 
 [Preferences]
 PrefsVaultGUID=
@@ -167,6 +168,21 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LVXADHER
+
+[ProjectVariant1]
+UniqueId=1d3a6002-f711-4a14-8e75-a923faafc4d0
+Description=Variant of ESP32-C3-RF-V1.0
+AllowFabrication=0
+ParameterCount=0
+VariationCount=3
+Variation1=Designator=C25|UniqueId=\XGYEJMEC|Kind=1|AlternatePart=
+Variation2=Designator=R2|UniqueId=\XTDVAGJE|Kind=1|AlternatePart=
+Variation3=Designator=R7|UniqueId=\JLMHBNDW|Kind=1|AlternatePart=
+ParamVariationCount=0
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for ESP32-C3-RF-V1.0\Design Rule Check - PCB-ESP32-C3-RF-V1.html
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
