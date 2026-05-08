@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 2:14:59 CH On 08/05/2026
+
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [Variant of ESP32-C3-RF-V1.0] of Project [ESP32-C3-RF-V1.0.PrjPcb]
+   Generated File[Bill of Materials-ESP32-C3-RF-V1.0(Variant of ESP32-C3-RF-V1.0).xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 2:15:03 CH On 08/05/2026
