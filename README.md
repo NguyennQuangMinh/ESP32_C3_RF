@@ -73,7 +73,7 @@ This project involves designing a 4-layer PCB using Altium Designer for the ESP3
 
 ### ✅ Bottom Overlay
 <p align="center">
-  <img src="https://github.com/NguyennQuangMinh/ESP32_C3_RF/blob/main/Documents/Images/BOTTOM_LAYER.png" />
+  <img src="https://github.com/NguyennQuangMinh/ESP32_C3_RF/blob/main/Documents/Images/BOTTOM_OVERLAY.png" />
 </p>
 
 ### ✅ 3D Model Top View
